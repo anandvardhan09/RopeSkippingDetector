@@ -136,7 +136,7 @@ with mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5) as 
         cv2.putText(
             image,
             "DETECTED" if(count > 0) else '-',
-            (int(image_width * 0.9), int(image_height * 0.1)),
+            (int(image_width * 0.8), int(image_height * 0.1)),
             cv2.FONT_HERSHEY_SIMPLEX,
             1,
             (0, 255, 0),
