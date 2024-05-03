@@ -9,3 +9,7 @@ pip install -r requirements.txt
 ```
 python rope_skipping_detector.py
 ```
+
+##Sample Output Video
+
+![Uploading sample_output.gif…]()
