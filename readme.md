@@ -12,4 +12,4 @@ python rope_skipping_detector.py
 
 ##Sample Output Video
 
-![Uploading sample_output.gif…]()
+![](sample_output.gif)
